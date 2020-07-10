@@ -35,6 +35,8 @@ Your `README.md` file should have the following structure:
 - LinkedIn: https://www.linkedin.com/in/anushka-bhagchandani-07659618b/
 ```
 
+**Eg:** [`anushka-2001`'s test repo.](anushka-2001)
+
 ## How to create a Pull Request
 
 - [`first-contributions` repo](https://github.com/firstcontributions/first-contributions) - learn how to make a PR by actually doing it!
