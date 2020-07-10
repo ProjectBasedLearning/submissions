@@ -1,21 +1,10 @@
 # submissions
 This repository is for submitting your PBL projects.
 
-## Repo structure 
+## Contributions
 
-```
-./<github_username>
-     |
-     v
-week_<number>
-     |
-     v
-<project_name>
-```
+Instructions for contributing to this repo can be found in [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
-Please do not change code in other's folders.
+## Code of Conduct
 
-## How to create a Pull Request
- 
-- [git_basics - How to create a PR](https://youtu.be/HF12-91iazM?t=5969)
-- [`first-contributions` repo](https://github.com/firstcontributions/first-contributions) - learn how to make a PR by actually doing it!
+The CoC can be found in [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md).
